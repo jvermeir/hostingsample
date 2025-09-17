@@ -1,0 +1,9 @@
+.terraform*
+terraform*
+.idea
+*iml
+target
+credentials.txt
+info.md
+*.tfvars
+postgres_server.crt
